@@ -4,8 +4,8 @@ local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 
 -- SETTINGS
-local WEBHOOK_URL = "" 
-local NOTIFY_DURATION = 3 -- seconds
+local WEBHOOK_URL  "https://discord.com/api/webhooks/1423793627544682557/ziJ2p8Le-mOZDgjV1nVJID7GXwqZdrEj53Cw990AA6YkhoqfEd4UCVSlQC0_ho35XYiE" 
+
 
 -- GET INFO
 local player = Players.LocalPlayer
